@@ -45,3 +45,20 @@ table{
 }
 
 /* NEW CSS HERE */
+
+
+ th,
+ td {
+  border: 1px solid #333;
+  padding: 8px 10px;
+  vertical-align: top;
+
+
+
+ th {
+  background-color: rgba(0,0,0,0.05);
+}
+
+ tr:nth-child(even) td {
+  background-color: rgba(0,0,0,0.02);
+}
