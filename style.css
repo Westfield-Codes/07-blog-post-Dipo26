@@ -52,8 +52,7 @@ table{
   border: 1px solid #333;
   padding: 8px 10px;
   vertical-align: top;
-
-
+ }
 
  th {
   background-color: rgba(0,0,0,0.05);
@@ -61,4 +60,19 @@ table{
 
  tr:nth-child(even) td {
   background-color: rgba(0,0,0,0.02);
+}
+
+h1{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:darkslategrey;
+}
+
+h2{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:darkslategrey;
+}
+
+h3{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:darkslategrey;
 }
